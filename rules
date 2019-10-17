@@ -1,0 +1,11 @@
+KAFKA SERVER
+sudo bin/kafka-server-start.sh config/server.properties
+
+DATABASE MONGO
+sudo systemctl start mongod
+mongo
+
+python montaz.py
+python consumerKafka.py
+mvn exec:java -Dexec.mainClass=com.Pipe
+
