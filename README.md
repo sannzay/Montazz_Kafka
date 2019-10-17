@@ -14,7 +14,7 @@ A platform for all live videos collaboration. Main motive is to collectively fet
 
 
 ## Work Flow of the Product
-
+![](https://github.com/sannzay/Montazz_Kafka/blob/master/Images/1.k.png)
 
 
 Here we designed the access for the web app for three different sets of people, namely:
@@ -24,3 +24,7 @@ Here we designed the access for the web app for three different sets of people, 
 
 
 ## System Architecture
+
+![](https://github.com/sannzay/Montazz_Kafka/blob/master/Images/2.k.png)
+
+![](https://github.com/sannzay/Montazz_Kafka/blob/master/Images/3.k.png)
